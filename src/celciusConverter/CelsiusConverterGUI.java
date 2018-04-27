@@ -1,3 +1,4 @@
+//Comentario añadido por José Rafael
 package celciusConverter;
 
 import java.awt.BorderLayout;
@@ -15,7 +16,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import java.awt.event.FocusAdapter;
 import java.awt.event.FocusEvent;
-
+//Otro comentario añadido aquí
 public class CelsiusConverterGUI extends JFrame {
 
 	private JPanel contentPane;
